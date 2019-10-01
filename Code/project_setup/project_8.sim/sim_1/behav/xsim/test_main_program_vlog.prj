@@ -1,0 +1,22 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../backup/RegisterFile.v" \
+"../../../../backup/adder_pc.v" \
+"../../../../backup/alu.v" \
+"../../../../backup/control_unit.v" \
+"../../../../backup/data_memory.v" \
+"../../../../backup/instruction_memory.v" \
+"../../../../backup/jump_alu.v" \
+"../../../../backup/jump_mux.v" \
+"../../../../backup/mainp.v" \
+"../../../../backup/max_alu.v" \
+"../../../../backup/mux_data_memory.v" \
+"../../../../backup/program_counter.v" \
+"../../../../backup/sign_extend.v" \
+"../../../../backup/test_main_program.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

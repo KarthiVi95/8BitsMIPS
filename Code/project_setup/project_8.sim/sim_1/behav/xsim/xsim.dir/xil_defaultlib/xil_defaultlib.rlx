@@ -1,0 +1,19 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/RegisterFile.v,1557418479,verilog,,D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/adder_pc.v,,RegisterFile,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/adder_pc.v,1555379058,verilog,,D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/alu.v,,adder_pc,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/alu.v,1557418369,verilog,,D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/control_unit.v,,alu,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/control_unit.v,1557425665,verilog,,D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/data_memory.v,,control_unit,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/data_memory.v,1557419197,verilog,,D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/instruction_memory.v,,data_memory,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/instruction_memory.v,1557424106,verilog,,D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/jump_alu.v,,instruction_memory,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/jump_alu.v,1555379216,verilog,,D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/jump_mux.v,,jump_alu,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/jump_mux.v,1557421519,verilog,,D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/mainp.v,,jump_mux,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/mainp.v,1557421877,verilog,,D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/max_alu.v,,mainp,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/max_alu.v,1557416417,verilog,,D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/mux_data_memory.v,,mux_alu,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/mux_data_memory.v,1555379197,verilog,,D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/program_counter.v,,mux2to1_data_memory,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/program_counter.v,1555378999,verilog,,D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/sign_extend.v,,program_counter,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/sign_extend.v,1555379099,verilog,,D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/test_main_program.v,,sign_extend,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/test_main_program.v,1557422058,verilog,,,,test_main_program,,,,,,,,
+D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/project_8.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,

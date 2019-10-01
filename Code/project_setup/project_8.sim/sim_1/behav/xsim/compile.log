@@ -1,0 +1,29 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/RegisterFile.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module RegisterFile
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/adder_pc.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module adder_pc
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/control_unit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module control_unit
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/data_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module data_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/instruction_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module instruction_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/jump_alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module jump_alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/jump_mux.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module jump_mux
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/mainp.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mainp
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/max_alu.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux_alu
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/mux_data_memory.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mux2to1_data_memory
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/program_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module program_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/sign_extend.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sign_extend
+WARNING: [VRFC 10-526] concatenation with unsized literal; will interpret as 32 bits [D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/sign_extend.v:29]
+INFO: [VRFC 10-2263] Analyzing Verilog file "D:/Karthik/MS_CS/Spring_19/CA/Projects/Project1/project_8/backup/test_main_program.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module test_main_program
